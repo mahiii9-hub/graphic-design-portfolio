@@ -20,8 +20,7 @@ A creative space showcasing my graphic design work, logos, posters, and creative
 
 ### 👟 KicksX — Futuristic Sneaker Promotional Flyer
 * **Brand Concept:** High-impact promotional flyer designed for the KicksX sneaker launch, featuring dark-mode streetwear aesthetics and bold typography.
-* **Visual Hierarchy:** Structured layout with eye-catching high-contrast red accent blocks, centered futuristic product render, and high-visibility CTA ("Future Is Stepping").
-* **Tools Used:** Canva, Custom AI Product Rendering, GitHub Pages Integration.
+
 
 * **🚀 More Projects**
   * Exciting new designs and branding projects are coming soon!
