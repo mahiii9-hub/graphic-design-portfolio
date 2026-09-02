@@ -20,7 +20,14 @@ A creative space showcasing my graphic design work, logos, posters, and creative
 
 ### 👟 KicksX — Futuristic Sneaker Promotional Flyer
 * **Brand Concept:** High-impact promotional flyer designed for the KicksX sneaker launch, featuring dark-mode streetwear aesthetics and bold typography.
+* 
+### . Nestora - Real Estate Brand & Property Visuals
+* **Project Type:** Real Estate Brand Concept & Marketing Assets
+* **Description:** Developed a clean, professional brand identity and visual layout tailored for a modern real estate platform.
 
+### . Brand Logo Design
+* **Project Type:** Custom Logo Identity
+* **Description:** A freshly added brand logo designed with modern typography and a sleek aesthetic to establish a strong visual identity.
 
 * **🚀 More Projects**
   * Exciting new designs and branding projects are coming soon!
