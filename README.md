@@ -13,7 +13,7 @@ A creative showcase of graphic design work, logos, and promotional assets crafte
 * **YouTube Thumbnails** — High-CTR, eye-catching video thumbnails.
 * **Certificates** — Custom-designed professional completion certificates.
 * **Birthday Greetings** — Personalized, creative event invitation & card design.
-* BlushUp Makeup – A chic, warm-toned promotional banner design showcasing soft glam aesthetics and modern beauty branding.
+* **BlushUp Makeup** – A chic, warm-toned promotional banner design showcasing soft glam aesthetics and modern beauty branding.
 
 ---
 *Crafted with creativity by MAHI!*
