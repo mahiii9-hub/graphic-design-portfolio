@@ -1,8 +1,6 @@
 # ✨ Visual Diaries
 A creative showcase of graphic design work, logos, and promotional assets crafted on Canva.
-
 ---
-
 ## 🎨 Featured Projects
 
 * **Savora (Brand Concept)** — Complete brand identity, logo, and visual assets.
@@ -15,6 +13,10 @@ A creative showcase of graphic design work, logos, and promotional assets crafte
 * **Certificates** — Custom-designed professional completion certificates.
 * **Birthday Greetings** — Personalized, creative event invitation & card design.
 * **BlushUp Makeup** — A chic, warm-toned promotional banner design showcasing soft glam aesthetics and modern beauty branding.
-
+* **Headphone / Product Promotion** — Sleek audio product showcase and promotional banner design.
+* **Independence Day Banner** — Patriotic poster design celebrating Independence Day.
+* **Manager Business Card** — Professional business card design for management profiles.
+* **Social Media Follow Poster** — Creative call-to-action design for social media engagement.
+* **Brand Logo Design** — Minimalist and versatile custom logo design.
 ---
 *Crafted with creativity by MAHI!*
