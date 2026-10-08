@@ -19,4 +19,4 @@ A creative showcase of graphic design work, logos, and promotional assets crafte
 * **Social Media Follow Poster** — Creative call-to-action design for social media engagement.
 * **Brand Logo Design** — Minimalist and versatile custom logo design.
 ---
-*Crafted with creativity by MAHI!*
+*Crafted with creativity by MALAIKA!*
